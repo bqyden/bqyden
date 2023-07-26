@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name is Bqyden, and I make software for fun in the hopes to one day make it a career.
+I'm a learning software engineer who is passionate about making open-source more accessible, creating applications for all platforms, and building community. 
+
+##Languages
+
+##Tools
+
+##What I'd like to learn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqyden&show_icons=true&theme=dark) 
 
