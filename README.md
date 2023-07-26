@@ -13,8 +13,9 @@ Tools:
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![VScodium](https://img.shields.io/badge/VScodium-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 
 What I'd like to learn:
