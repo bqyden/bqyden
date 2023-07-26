@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm a learning software engineer who is passionate about making open-source more accessible, creating applications for all platforms, and building community. 
 
 #Languages
