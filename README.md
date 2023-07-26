@@ -2,6 +2,7 @@
 I'm a learning software engineer who is passionate about making open-source more accessible, creating applications for all platforms, and building community. 
 
 ##Languages
+![Javascript](https://img.shields.io/badge/Javascript-339966?style=for-the-badge&logo=javascript&logoColor=white)
 
 ##Tools
 
