@@ -15,7 +15,10 @@ Tools:
 ![VScodium](https://img.shields.io/badge/VScodium-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
-##What I'd like to learn
+What I'd like to learn:
+
+![Svelte](https://img.shields.io/badge/Svelte-ff6600?style=for-the-badge&logo=svelte&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqyden&show_icons=true&theme=dark) 
 
