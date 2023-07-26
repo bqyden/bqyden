@@ -4,6 +4,7 @@ I'm a learning software engineer who is passionate about making open-source more
 Languages:
 
 ![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-339966?style=for-the-badge&logo=javascript&logoColor=white)
 
