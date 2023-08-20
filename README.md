@@ -24,7 +24,7 @@ What I'd like to learn:
 ![Svelte](https://img.shields.io/badge/Svelte-ff6600?style=for-the-badge&logo=svelte&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 
-If you would like to contact me, your best bet is on discord: @bqyden
+If you would like to contact me, your best bet is on discord: @bqyden or by email @ bqydenwinter@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqyden&layout=compact&theme=dark)
 
