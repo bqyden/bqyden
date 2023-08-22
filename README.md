@@ -25,7 +25,3 @@ What I'd like to learn:
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 
 If you would like to contact me, your best bet is on discord: @bqyden or by email @ bqydenwinter@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqyden&layout=compact&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqyden&show_icons=true&theme=dark) 
