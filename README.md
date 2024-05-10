@@ -15,7 +15,7 @@ Tools:
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-vim?logo=Neovim)
+![Neovim](https://img.shields.io/badge/Neovim-vim?style=for-the-badge&logo=Neovim)
 
 What I'd like to learn:
 
